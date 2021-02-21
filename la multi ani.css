@@ -3,10 +3,11 @@
     font-size: 100px;
     text-align: center;
     font-family: 'Great Vibes';
-    vertical-align: baseline;
+    /* vertical-align: baseline; */
     /* margin-top: 20%; */
     margin-bottom: auto;
-    line-height: 100px;
+    /* line-height: 100px; */
+    align-self: center;
     
 }
 body{
