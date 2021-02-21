@@ -1,18 +1,23 @@
-.urare{
+h1{
     color: red;
     font-size: 100px;
-    text-align: center;
     font-family: 'Great Vibes';
     /* vertical-align: baseline; */
     /* margin-top: 20%; */
     /* margin-bottom: auto; */
     /* line-height: 100px; */
     /* align-self: center; */
-    margin-left: auto;
-    margin-right: auto;
-    width: 8em;
-    
 }
+div.urare {
+    height: 10em;
+    position: relative }
+div.urare h1 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
 body{
     background-color: bisque;
 }
