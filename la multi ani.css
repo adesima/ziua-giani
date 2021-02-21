@@ -14,6 +14,12 @@
     top: 50%;
     width: 100%;
 }
+.clasa{
+    color: red;
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Great Vibes';
+}
 body{
     background-color: bisque;
 }
