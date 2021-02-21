@@ -7,4 +7,9 @@
 body{
     background-color: bisque;
 }
+.tort{
+    align-items: center;
+    margin-bottom: 30px;
+    margin-top: auto;
+}
 
