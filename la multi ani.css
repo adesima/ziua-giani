@@ -3,18 +3,8 @@
     font-size: 100px;
     text-align: center;
     font-family: 'Great Vibes';
-    vertical-align: middle;
-    margin-top: 20%;
-    margin-bottom: auto;
-    left: 0;
-    line-height: 200px;
-    margin-top: -100px;
-    position: absolute;
-    text-align: center;
-    top: 50%;
-    width: 100%;
 }
-.clasa{
+h2{
     color: red;
     font-size: 60px;
     text-align: center;
